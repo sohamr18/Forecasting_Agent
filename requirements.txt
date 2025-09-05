@@ -1,0 +1,12 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq 
+langchain_tavily
+tabulate
+pandas
+numpy
+streamlit
+matplotlib
+statsmodels
